@@ -1,0 +1,53 @@
+NASA's InSight makes its grand entrance through the rose-tinted Martian skies on Monday, after a six-month, 300 million-mile (480 million-kilometer) journey. It will be the first American spacecraft to land since the Curiosity rover in 2012 and the first dedicated to exploring underground.
+
+NASA is going with a tried-and-true method to get this mechanical miner to the surface of the red planet. Engine firings will slow its final descent and the spacecraft will plop down on its rigid legs, mimicking the landings of earlier successful missions.
+
+That's where old school ends on this $1 billion U.S.-European effort .
+
+Once flight controllers in California determine the coast is clear at the landing site—fairly flat and rock free—InSight's 6-foot (1.8-meter) arm will remove the two main science experiments from the lander's deck and place them directly on the Martian surface.
+No spacecraft has attempted anything like that before.
+The firsts don't stop there.
+
+One experiment will attempt to penetrate 16 feet (5 meters) into Mars, using a self-hammering nail with heat sensors to gauge the planet's internal temperature. That would shatter the out-of-this-world depth record of 8 feet (2 ½ meters) drilled by the Apollo moonwalkers nearly a half-century ago for lunar heat measurements.
+
+The astronauts also left behind instruments to measure moonquakes. InSight carries the first seismometers to monitor for marsquakes—if they exist. Yet another experiment will calculate Mars' wobble, providing clues about the planet's core.
+
+It won't be looking for signs of life, past or present. No life detectors are on board.
+The spacecraft is like a self-sufficient robot, said lead scientist Bruce Banerdt of NASA's Jet Propulsion Laboratory.
+
+"It's got its own brain. It's got an arm that can manipulate things around. It can listen with its seismometer. It can feel things with the pressure sensors and the temperature sensors. It pulls its own power out of the sun," he said.
+
+By scoping out the insides of Mars, scientists could learn how our neighbor—and other rocky worlds, including the Earth and moon—formed and transformed over billions of years. Mars is much less geologically active than Earth, and so its interior is closer to being in its original state—a tantalizing time capsule.
+
+InSight stands to "revolutionize the way we think about the inside of the planet," said NASA's science mission chief, Thomas Zurbuchen.
+
+But first, the 800-pound (360-kilogram) vehicle needs to get safely to the Martian surface. This time, there won't be a ball bouncing down with the spacecraft tucked inside, like there were for the Spirit and Opportunity rovers in 2004. And there won't be a sky crane to lower the lander like there was for the six-wheeled Curiosity during its dramatic "seven minutes of terror."
+"That was crazy," acknowledged InSight's project manager, Tom Hoffman. But he noted, "Any time you're trying to land on Mars, it's crazy, frankly. I don't think there's a sane way to do it."
+No matter how it's done, getting to Mars and landing there is hard—and unforgiving.
+Earth's success rate at Mars is a mere 40 percent. That includes planetary flybys dating back to the early 1960s, as well as orbiters and landers.
+While it's had its share of flops, the U.S. has by far the best track record. No one else has managed to land and operate a spacecraft on Mars. Two years ago, a European lander came in so fast, its descent system askew, that it carved out a crater on impact.
+This time, NASA is borrowing a page from the 1976 twin Vikings and the 2008 Phoenix, which also were stationary and three-legged.
+
+"But you never know what Mars is going to do," Hoffman said. "Just because we've done it before doesn't mean we're not nervous and excited about doing it again."
+Wind gusts could send the spacecraft into a dangerous tumble during descent, or the parachute could get tangled. A dust storm like the one that enveloped Mars this past summer could hamper InSight's ability to generate solar power. A leg could buckle. The arm could jam.
+
+The tensest time for flight controllers in Pasadena, California: the six minutes from the time the spacecraft hits Mars' atmosphere and touchdown. They'll have jars of peanuts on hand—a good-luck tradition dating back to 1964's successful Ranger 7 moon mission.
+InSight will enter Mars' atmosphere at a supersonic 12,300 mph (19,800 kph), relying on its white nylon parachute and a series of engine firings to slow down enough for a soft upright landing on Mars' Elysium Planitia, a sizable equatorial plain.
+
+Hoffman hopes it's "like a Walmart parking lot in Kansas."
+The flatter the better so the lander doesn't tip over, ending the mission, and so the robotic arm can set the science instruments down.
+
+InSight—short for Interior Exploration using Seismic Investigations, Geodesy and Heat Transport—will rest close to the ground, its top deck barely a yard, or meter, above the surface. Once its twin circular solar panels open, the lander will occupy the space of a large car.
+
+If NASA gets lucky, a pair of briefcase-size satellites trailing InSight since their joint May liftoff could provide near-live updates during the lander's descent. There's an eight-minute lag in communications between Earth and Mars.
+
+The experimental CubeSats, dubbed WALL-E and EVE from the 2008 animated movie, will zoom past Mars and remain in perpetual orbit around the sun, their technology demonstration complete.
+
+If WALL-E and EVE are mute, landing news will come from NASA orbiters at Mars, just not as quickly.
+The first pictures of the landing site should start flowing shortly after touchdown. It will be at least 10 weeks before the science instruments are deployed. Add another several weeks for the heat probe to bury into Mars.
+
+The mission is designed to last one full Martian year, the equivalent of two Earth years.
+With landing day so close to Thanksgiving, many of the flight controllers will be eating turkey at their desks on the holiday.
+
+Hoffman expects his team will wait until Monday to give full and proper thanks.
+

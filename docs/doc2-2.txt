@@ -1,0 +1,27 @@
+Britain's air safety regulator revealed details Wednesday of a Sunwing flight last year that narrowly avoided disaster after the flight crew inputted incorrect air temperature readings, which caused the jet to overrun the runway, run over a warning light and left it with just enough speed to get into the air.
+
+According to a report from the U.K. Air Accident Investigation Branch, the flight in question was a Boeing 737 with 185 people aboard, taking off from the Belfast airport and bound for the Greek Island of Corfu on July 24, 2017.
+
+As the Canadian charter airline's flight was preparing to take off around 3:40 p.m., the outside air temperature was 16 C. But for some reason, the cockpit incorrectly input the temperature as –52.
+
+Colder air requires less thrust from the engines to give the jet the same amount of lift, so the jet's response was to try to take off with far less power than it should have done.
+
+"This, together with the correctly calculated assumed temperature thrust reduction of 48 C , meant the aircraft engines were delivering only 60 per cent of their maximum rated thrust," the incident report said.
+
+The result was that the jet took off much farther down the runway than it normally would have, and in the process ran over a runway approach light that was 30 metres past the end of the takeoff runway.
+
+"The low acceleration of the aircraft was not recognised by the crew until the aircraft was rapidly approaching the end of the runway," the report said.
+
+Disaster was only averted because there was nothing past the end of the runway that got in the way of the slowly rising jet.
+
+"It was only the benign nature of the runway clearway and terrain elevation beyond, and the lack of obstacles in the climb-out path which allowed the aircraft to climb away without further collision after it struck the runway light," the AAIB said. "Had an engine failed at a critical moment during the takeoff, the consequences could have been catastrophic."
+
+The jet didn't get up to full thrust until it was four kilometres away from the airport, the report said, but there was no damage to the aircraft, which continued its flight to Corfu, Greece, without further incident.
+
+In the report, the regulator said that the jet's flight management system had an older software version that didn't allow the plane to alert the crew to the incorrect temperature reading. Updated software would fix that, and in a statement to CBC News the airline said the jet in question has received the requisite software upgrade.
+
+"We received the Air Accidents Investigation Branch's (AAIB) final report with relation to the July 2017 incident at Belfast International Airport and are in agreement with their findings and support their safety recommendations," Sunwing said.
+
+"We worked with the AAIB and the Transportation Safety Board of Canada (TSB) throughout the investigation, and as noted in the report, we have already implemented the recommended updates to our ... software, training scenarios and incident reporting protocol."
+
+"The safety of our customers continues to be our top priority and we have confidence that these mitigating actions taken in co-operation with regulatory bodies and software providers reflect this commitment," the airline said.

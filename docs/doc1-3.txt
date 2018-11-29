@@ -1,0 +1,20 @@
+Imagine an aircraft engine that has no moving parts, produces no harmful exhaust and makes no noise. That’s what researchers at the Massachusetts Institute of Technology (MIT) in the US have created by adapting a technology previously only used in spacecraft so it can power flight over the Earth.
+
+Ion drives have been used on spacecraft since the 1960s and work by firing out a stream of charged particles that propel the vessel forward. As well as being carbon neutral, they are less likely to go wrong and cheaper to maintain than conventional engines because they have no propellers, turbines or fuel pumps to break down. The only problem was that, in Earth’s gravity, the thrust produced by the drive wasn’t enough to overcome the weight of the batteries needed to power them. Until now.
+
+The timely new research, published in Nature, paves the way for the possibility of silent drones in the very near future. With further advances in materials and power conversion, silent crewed aircraft and eventually commercial flights could also be on the horizon. In fact, this breakthrough could be the first step in changing how we all fly around the world in the future.
+
+All aircraft engines work by pushing something backwards so that the craft moves forward. Usually this is air, whether cold air driven by electric propellers or hot air fired out by jet engines. Ion propulsion instead sends out charged particles or ions generated in the gap between two electrodes with a high voltage inbetween. The ions interact with the air, creating an ionic wind that is sent backwards, propelling the aircraft forward.
+
+As with propeller-driven solar powered aircraft, ion drive craft are powered by electricity and so don’t need to carry fuel, other than batteries filled with charged particles. The new research shows that, with some clever modifications to the battery setup and the way the electrical power is converted, it’s possible to reduce the battery weight enough to make this technology fly.
+
+Compromise design
+A craft with an ion drive also needs a large front area to generate the ionic wind in the right way. But this would usually make the aircraft heavier, so the researchers had to balance these conflicting limitations. They designed a wingspan that was small enough to reduce risks and make the testing cheaper and easier, while being large enough to use standard remote control components.
+
+The researchers flew ten flights using an aircraft with a 5-metre wingspan, weighing less than 2.5 kilograms. They were able to fly it for up to 9 seconds over a distance of 45 metres at a speed of 5 metres a second. The craft needed around 20 seconds to build up its power and was then launched using a mechanical bungee system.
+
+While this flight time and distance might not seem like much, the researchers point out that they’re actually similar to the those of the first flight of aeroplane inventors the Wright Brothers in 1903. Making further advances in materials and power electronics, and optimising the airframe, could enable the craft to fly faster and for longer. It may also be possible to use solar panels to generate the electricity needed to power the ion drive.
+
+One of the big advantages of an ion-powered craft is its near-zero levels of noise. So it’s likely the technology will find its first application in silent drones. Its lack of moving parts should make it relatively easy to scale the system down for smaller craft and make it easier to scale up. But bigger craft will also need a bigger increase in power. To build an ion-powered airliner you would need to increased the amount of power relative to the craft’s size 300 fold.
+
+But look how far we have come since the Wright Brothers’ first flight. The sky may be the limit with this new technology.
